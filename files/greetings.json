@@ -1,0 +1,157 @@
+{
+  "Adjectives": {
+    "Formal": [
+      "divine",
+      "fantabulous",
+      "glorious",
+      "heavenly",
+      "remarkable",
+      "smashing",
+      "splendid",
+      "splendiferous",
+      "sublime"
+    ],
+    "Informal": [
+      "nice",
+      "lovely",
+      "pleased"
+    ]
+  },
+  "Cake Day": {
+    "Formal": [
+      [
+        "additionally,",
+        "furthermore,"
+      ], [
+        "I",
+        "I do",
+        "I sincerely"
+      ], [
+        "hope you"
+      ], [
+        "encounter",
+        "experience",
+        "have"
+      ], [
+        "[adjective]"
+      ], [
+        "anniversary with @Twitter",
+        "date of creation",
+        "gateau day"
+      ]
+    ],
+    "Informal": [
+      [
+        "happy"
+      ], [
+        "cake day"
+      ], [
+        "also",
+        "as well",
+        "too"
+      ]
+    ]
+  },
+  "Chad": {
+    "Formal": [
+      [
+        "it is"
+      ], [
+        "absolutely",
+        "positively",
+        "truly"
+      ], [
+        "[adjective]"
+      ], [
+        "to"
+      ], [
+        "be in your presence",
+        "cross paths with you"
+      ], [
+        "again",
+        "once more"
+      ], [
+        "{}"
+      ]
+    ],
+    "Informal": [
+      [
+        [
+          "hello",
+          "hi"
+        ], [
+          "again"
+        ], [
+          "{}"
+        ]
+      ],
+      "did you think I forgot about you {}?",
+      "it's been a while... {}",
+      "long time, no see {}"
+    ]
+  },
+  "Error": [
+    "400: {} is naughty",
+    "402: {} is not cheap",
+    "403: {} forbidden",
+    "404: {} not found",
+    "406: {} not acceptable",
+    "410: {} has poofed",
+    "417: {} is a disappointment",
+    "418: {} is a teapot",
+    "420: {} must enhance their calm",
+    "426: Upgrade to {} version [version] required",
+    "451: {} [redacted]"
+  ],
+  "Virgin": {
+    "Formal": [
+      [
+        [
+          "it"
+        ], [
+          "",
+          "truly"
+        ], [
+          "is"
+        ], [
+          "an honour",
+          "a pleasure"
+        ], [
+          "to"
+        ], [
+          "be in your presence",
+          "meet you"
+        ], [
+          "{}"
+        ]
+      ]
+    ],
+    "Informal": [
+      [
+        [
+          "dia dhuit",
+          "greetings",
+          "hello",
+          "hey",
+          "hi",
+          "hiya",
+          "howdy"
+        ], [
+          "{}"
+        ]
+      ], [
+        [
+          "good",
+          "great",
+          "nice",
+          "lovely",
+          "pleased"
+        ], [
+          "to meet you"
+        ], [
+          "{}"
+        ]
+      ]
+    ]
+  }
+}
